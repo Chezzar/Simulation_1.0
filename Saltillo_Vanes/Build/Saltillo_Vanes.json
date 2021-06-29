@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SVAP_CovidSim",
+"productVersion": "0.1",
+"dataUrl": "Saltillo_Vanes.data.unityweb",
+"wasmCodeUrl": "Saltillo_Vanes.wasm.code.unityweb",
+"wasmFrameworkUrl": "Saltillo_Vanes.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}

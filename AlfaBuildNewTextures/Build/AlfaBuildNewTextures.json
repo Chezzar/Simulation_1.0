@@ -1,0 +1,16 @@
+{
+"companyName": "Stelantis",
+"productName": "Alfa Romeo Web",
+"productVersion": "1.172",
+"dataUrl": "AlfaBuildNewTextures.data.unityweb",
+"wasmCodeUrl": "AlfaBuildNewTextures.wasm.code.unityweb",
+"wasmFrameworkUrl": "AlfaBuildNewTextures.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
